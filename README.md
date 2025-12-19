@@ -15,6 +15,6 @@
 ## PS
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=youngtae)](https://solved.ac/youngtae)
 
-## 📮 Contact
-<a href=mailto:youngtae0519k@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:youngtae0519k@gmail.com"> </a>
-<a href=https://youngtae0519.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://youngtae0519.tistory.com/"> </a>
+## Contact
+<a href=mailto:youngtae0519k@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:youngtae0519k@gmail.com"> </a>
+<a href=https://youngtae0519.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=white&link=https://youngtae0519.tistory.com/"> </a>
