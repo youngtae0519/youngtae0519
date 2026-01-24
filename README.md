@@ -1,25 +1,19 @@
 # ✋ Hi there!
 
 ## Career
-## SW Maestro 16th Fellow (_Apr. 2025 - Dec.2025_)
+## SW Maestro 16th Fellow | _Apr. 2025 - Dec.2025_
 
-### Perfect Swing: Tennis Highlights | AI Engineer (_Apr. 2025 - Dec.2025_)
+### Perfect Swing: Tennis Highlights | AI Engineer | [🔗 App Store](https://apps.apple.com/ph/app/perfectswing-tennis-highlights/id6751231905) | [🔗 Google Play](https://play.google.com/store/apps/details?id=org.freepoc.tennisswinganalyser)
 > **Automated AI video editor that detects and extracts rally highlights from tennis footage**
-
-[🔗 App Store](https://apps.apple.com/ph/app/perfectswing-tennis-highlights/id6751231905) | [🔗 Google Play](https://play.google.com/store/apps/details?id=org.freepoc.tennisswinganalyser)
 
 ---
 
 ## Project
-### JobTalk | Backend Engineer (_Mar. 2025 - Jun. 2025_)
+### JobTalk | Backend Engineer | _Mar. 2025 - Jun. 2025_ | [🔗 GitHub](https://github.com/SSU-ServerProgramming/Job_Q-A.git)
 > **Community platform for job seekers to share interview experiences, company reviews, and career advice**
 
-[🔗 GitHub](https://github.com/SSU-ServerProgramming/Job_Q-A.git)
-
-### EveryHealth | Backend Engineer (_Nov. 2024 - Dec. 2024_)
+### EveryHealth | Backend Engineer | _Nov. 2024 - Dec. 2024_ | [🔗 GitHub](https://github.com/youngtae0519/EveryHealth.git)
 > **Health and fitness management platform for tracking exercise routines, diet plans, and body metrics**
-
-[🔗 GitHub](https://github.com/youngtae0519/EveryHealth.git)
 
 ---
 
