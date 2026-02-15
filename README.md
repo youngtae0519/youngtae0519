@@ -20,7 +20,7 @@
 ---
 
 ### EveryHealth | _Nov. 2024 - Dec. 2024_
-> **Health and fitness management platform for tracking exercise routines, diet plans, and body metrics**
+> **Integrated health tracking platform for body, exercise, and diet data**
 
 **Backend Engineer**  | **A 3-person squad** | **[🔗 GitHub](https://github.com/youngtae0519/EveryHealth.git)**
 
