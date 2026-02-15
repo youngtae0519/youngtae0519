@@ -13,7 +13,7 @@
 ### JobTalk | _Mar. 2025 - Jun. 2025_
 > **Interview Insights & Company Reviews for Job Seekers**
 
-**Backend Engineer** | **A 4-person squad** | **[🔗 GitHub](https://github.com/SSU-ServerProgramming/Job_Q-A.git)**
+**Backend Engineer** | **A 4-person squad** | **[🔗 GitHub](https://github.com/youngtae0519/Job_Q-A)**
 
 **Tech Stack:** **`Flask`** **`SQLAlchemy`** **`MySQL`**
 
