@@ -3,19 +3,21 @@
 ---
 
 ## Project
-### Perfect Swing: Tennis Highlights
-**AI Engineer | _Apr. 2025 - Dec.2025_ | SW Maestro 16th**
-> **Automated AI video editor that detects and extracts rally highlights from tennis footage**
+### Perfect Swing: Tennis Highlights | _Apr. 2025 - Dec.2025_
+> **Automated Tennis Rally Detection & Highlight Tool**
 
-**[🔗 App Store](https://apps.apple.com/ph/app/perfectswing-tennis-highlights/id6751231905) | [🔗 Google Play](https://play.google.com/store/apps/details?id=org.freepoc.tennisswinganalyser)**
+**Backend & AI Engineer** | **A 3-person squad** | **[🔗 App Store](https://apps.apple.com/ph/app/perfectswing-tennis-highlights/id6751231905) & [🔗 Google Play](https://play.google.com/store/apps/details?id=org.freepoc.tennisswinganalyser)**
+
+**Tech Stack:** **`FastAPI`** **`Docker`** **`Google Cloud Platform`**
 
 ---
 
-### JobTalk
-**Backend Engineer | _Mar. 2025 - Jun. 2025_ | University Team Project**
-> **Community platform for job seekers to share interview experiences, company reviews, and career advice**
+### JobTalk | _Mar. 2025 - Jun. 2025_
+> **Interview Insights & Company Reviews for Job Seekers**
 
-**[🔗 GitHub](https://github.com/SSU-ServerProgramming/Job_Q-A.git)**
+**Backend Engineer** | **A 4-person squad** | **[🔗 GitHub](https://github.com/SSU-ServerProgramming/Job_Q-A.git)**
+
+**Tech Stack:** **`Flask`** **`SQLAlchemy`** **`MySQL`**
 
 ---
 
