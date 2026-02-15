@@ -1,7 +1,5 @@
 # ✋ Hi there!
 
----
-
 ## Project
 ### Perfect Swing: Tennis Highlights | _Apr. 2025 - Dec.2025_
 > **Automated Tennis Rally Detection & Highlight Tool**
@@ -21,13 +19,11 @@
 
 ---
 
-### EveryHealth
-**Backend Engineer | _Nov. 2024 - Dec. 2024_ | University Team Project**
+### EveryHealth | _Nov. 2024 - Dec. 2024_
 > **Health and fitness management platform for tracking exercise routines, diet plans, and body metrics**
 
-**[🔗 GitHub](https://github.com/youngtae0519/EveryHealth.git)**
+**Backend Engineer**  | **A 3-person squad** | **[🔗 GitHub](https://github.com/youngtae0519/EveryHealth.git)**
+
+**Tech Stack:** **`Spring Boot`** **`Spring Security`** **`Spring Data JPA`**
 
 ---
-
-## PS
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=youngtae)](https://solved.ac/youngtae)
