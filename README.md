@@ -1,10 +1,5 @@
 # ✋ Hi there!
 
-## Career
-### SW Maestro 16th Fellow | _Apr. 2025 - Dec.2025_
-- A **government-funded pre-acceleration** **track** for technical founders
-- **AI Engineer** for “**Perfect Swing: Tennis Highlights**”
-
 ---
 
 ## Project
@@ -29,14 +24,6 @@
 > **Health and fitness management platform for tracking exercise routines, diet plans, and body metrics**
 
 **[🔗 GitHub](https://github.com/youngtae0519/EveryHealth.git)**
-
----
-
-## Education
-### Soongsil University (3.97 / 4.5)
-
-- **Mathematics (Major) | *Mar. 2019 - Aug. 2025***
-- **School of AI Convergence (Double Major) | *Mar. 2023 - Aug. 2025***
 
 ---
 
