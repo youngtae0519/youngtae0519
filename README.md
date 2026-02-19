@@ -22,7 +22,7 @@
 ### EveryHealth | _Nov. 2024 - Dec. 2024_
 > **Integrated health tracking platform for body, exercise, and diet data**
 
-**Backend Engineer**  | **A 3-person squad (FE 1 & BE 2)** | **[🔗 GitHub](https://github.com/youngtae0519/EveryHealth.git)**
+**Team Leader & Backend Engineer**  | **A 3-person squad (FE 1 & BE 2)** | **[🔗 GitHub](https://github.com/youngtae0519/EveryHealth.git)**
 
 **Tech Stack:** **`Spring Boot`** **`Spring Security`** **`Spring Data JPA`**
 
